@@ -354,8 +354,6 @@ Redis 还可以同时使用 AOF 持久化和 RDB 持久化。 在这种情况下
 ```
 
 
-参考文章：https://learnku.com/articles/28758
-
 
 
 
